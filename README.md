@@ -17,4 +17,11 @@ The objective of this project is to analyze hotel booking performance, revenue t
 -	How does monthly revenue vary across different months and years?
 -	What is the occupancy status distribution (occupied, vacant, maintenance)?
 
-- Dashboard Interaction <a href="">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/snehaldurbude60-bit/Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-11%20005125.png">View Dashboard</a>
+
+## Process
+- Imported and cleaned hotel booking data using Power Query in Power BI.
+- Created DAX measures to calculate KPIs such as Total Revenue, ADR, RevPAR, and Bookings.
+- Built interactive visuals including KPI cards, charts, and treemaps to analyze hotel performance.
+- Added slicers and bookmarks to enable dynamic filtering and multi-page dashboard navigation.
+
