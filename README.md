@@ -17,7 +17,7 @@ The objective of this project is to analyze hotel booking performance, revenue t
 -	How does monthly revenue vary across different months and years?
 -	What is the occupancy status distribution (occupied, vacant, maintenance)?
 
-- Dashboard Interaction <a href="https://github.com/snehaldurbude60-bit/Data-Analysis-Dashboard/blob/main/Screenshot%202026-03-11%20005125.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/snehaldurbude60-bit/Data-Analysis-Dashboard/blob/main/HOTEL%20INDUSTRY%20DASHBOARD.pbix">View Dashboard </a>
 
 ## Process
 - Imported and cleaned hotel booking data using Power Query in Power BI.
@@ -26,7 +26,8 @@ The objective of this project is to analyze hotel booking performance, revenue t
 - Added slicers and bookmarks to enable dynamic filtering and multi-page dashboard navigation.
 
 ## Dashboard
-<a href="https://github.com/snehaldurbude60-bit/Data-Analysis-Dashboard/blob/main/HOTEL%20INDUSTRY%20DASHBOARD.pbix">Watch Dashboard Here</a>
+<img width="1537" height="859" alt="Screenshot 1" src="https://github.com/user-attachments/assets/cc8449c9-8257-4c3a-b8d4-a6a3ce178312" />
+<img width="1525" height="856" alt="Screenshot 2" src="https://github.com/user-attachments/assets/0ffcc0c5-9b5c-4c8f-bd5e-6a847cd55330" />
 
 ## Project Insights 
 -	Booking distribution shows that Corporate, OTA, Walk-in, and Website channels contribute almost equally to total bookings.
