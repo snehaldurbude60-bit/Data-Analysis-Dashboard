@@ -26,4 +26,14 @@ The objective of this project is to analyze hotel booking performance, revenue t
 - Added slicers and bookmarks to enable dynamic filtering and multi-page dashboard navigation.
 
 ## Dashboard
-<a href="https://github.com/snehaldurbude60-bit/Data-Analysis-Dashboard/blob/main/HOTEL%20INDUSTRY%20DASHBOARD.pbix">Watch Dashboard</a>
+<a href="https://github.com/snehaldurbude60-bit/Data-Analysis-Dashboard/blob/main/HOTEL%20INDUSTRY%20DASHBOARD.pbix">Watch Dashboard Here</a>
+
+## Project Insights 
+-	Booking distribution shows that Corporate, OTA, Walk-in, and Website channels contribute almost equally to total bookings.
+-	Double and Suite rooms generate higher revenue, indicating stronger demand for premium room types.
+-	Monthly revenue trends reveal seasonal fluctuations in hotel bookings and revenue performance.
+-	A noticeable number of cancellations and no-shows impact occupancy and revenue efficiency.
+
+## Final Conclusion
+The Hotel Industry Analytics Dashboard provides a comprehensive view of hotel performance by integrating booking, revenue, and occupancy metrics into a single interactive platform. Through dynamic filters, bookmarks, and multiple analytical pages, the dashboard allows users to explore booking patterns, revenue trends, and guest behavior in detail. These insights enable hotel management to optimize booking strategies, improve occupancy rates, and maximize revenue through data-driven decision-making.
+
