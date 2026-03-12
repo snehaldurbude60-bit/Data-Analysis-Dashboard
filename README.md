@@ -25,3 +25,4 @@ The objective of this project is to analyze hotel booking performance, revenue t
 - Built interactive visuals including KPI cards, charts, and treemaps to analyze hotel performance.
 - Added slicers and bookmarks to enable dynamic filtering and multi-page dashboard navigation.
 
+## Dashboard
