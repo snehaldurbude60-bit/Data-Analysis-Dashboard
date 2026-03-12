@@ -26,3 +26,4 @@ The objective of this project is to analyze hotel booking performance, revenue t
 - Added slicers and bookmarks to enable dynamic filtering and multi-page dashboard navigation.
 
 ## Dashboard
+<a href="https://github.com/snehaldurbude60-bit/Data-Analysis-Dashboard/blob/main/HOTEL%20INDUSTRY%20DASHBOARD.pbix">Watch Dashboard</a>
