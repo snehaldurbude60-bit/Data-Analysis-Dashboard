@@ -28,6 +28,10 @@ The objective of this project is to analyze hotel booking performance, revenue t
 ## Dashboard
 <img width="1537" height="859" alt="Screenshot 1" src="https://github.com/user-attachments/assets/cc8449c9-8257-4c3a-b8d4-a6a3ce178312" />
 <img width="1525" height="856" alt="Screenshot 2" src="https://github.com/user-attachments/assets/0ffcc0c5-9b5c-4c8f-bd5e-6a847cd55330" />
+<img width="1519" height="857" alt="Screenshot 3" src="https://github.com/user-attachments/assets/4214098b-f052-40a3-bfc9-e22cfa4a20c8" />
+<img width="1531" height="854" alt="Screenshot 4" src="https://github.com/user-attachments/assets/b309b06a-d595-4b04-b26f-9770803f65bb" />
+<img width="1527" height="855" alt="Screenshot 5" src="https://github.com/user-attachments/assets/ee91664a-4b30-47cf-8f72-3b1426cfca94" />
+<img width="1526" height="853" alt="Screenshot 6" src="https://github.com/user-attachments/assets/da36488f-0ddc-4b1e-911f-341fae86acba" />
 
 ## Project Insights 
 -	Booking distribution shows that Corporate, OTA, Walk-in, and Website channels contribute almost equally to total bookings.
